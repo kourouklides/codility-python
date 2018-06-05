@@ -1,24 +1,18 @@
 # you can write to stdout for debugging purposes, e.g.
 # print("this is a debug message")
+import re as regex
 
 def solution(N):
     # write your code in Python 3.6
     
-    i = N
-    counter = 0
-    result = 0
-    found_one = False
+    N_binary = "{0:b}".format(N)
     
-    while (i > 0):
-        if ( (i & 1) == 1):
-            if (found_one == False):
-                found_one = True
-            else:
-                result = max(result, counter)
-            counter = 0
-        else:
-            counter += 1
-        i >>= 1
-        
-    return result
-
+    gaps = regex.split("1+", N_binary)
+    
+    max_gap = []
+    repetitions = len(gaps) - 1
+    for i in range(0, repetitions):
+    	max_gap.append(len(gaps[i]))
+    
+    return max(max_gap)
+    
