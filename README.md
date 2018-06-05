@@ -4,10 +4,10 @@ Solutions to Codility tests in Python: https://app.codility.com/programmers/
 
 **Lesson 1 - Iterations**
 
- - [BinaryGap (Solution 1)]()
- - [BinaryGap (Solution 2)]()
- - [BinaryGap (Solution 3)]()
- - [BinaryGap (Solution 4)]()
+ - [BinaryGap (Solution 1)](https://github.com/kourouklides/codility-python/blob/master/Lesson%2001%20-%20Iterations/BinaryGap_1.py)
+ - [BinaryGap (Solution 2)](https://github.com/kourouklides/codility-python/blob/master/Lesson%2001%20-%20Iterations/BinaryGap_2.py)
+ - [BinaryGap (Solution 3)](https://github.com/kourouklides/codility-python/blob/master/Lesson%2001%20-%20Iterations/BinaryGap_3.py)
+ - [BinaryGap (Solution 4)](https://github.com/kourouklides/codility-python/blob/master/Lesson%2001%20-%20Iterations/BinaryGap_4.py)
  
 **Lesson 2 - Arrays**
 
