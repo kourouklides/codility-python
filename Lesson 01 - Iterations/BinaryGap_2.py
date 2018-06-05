@@ -10,8 +10,7 @@ def solution(N):
     
     while (i > 0):
         if  (i % 2 != 0):
-            if (current_gap > max_gap):
-                max_gap = current_gap
+            max_gap = max(max_gap,current_gap)
             current_gap = 0
         elif (current_gap >= 0):
             current_gap += 1
