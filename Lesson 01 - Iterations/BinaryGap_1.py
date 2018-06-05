@@ -21,3 +21,4 @@ def solution(N):
         i >>= 1
         
     return result
+
