@@ -4,8 +4,8 @@
 def solution(A, K):
     # write your code in Python 3.6
     
-    B = A[:] 
-    n = len(B)
+    n = len(A)
+    B = A[:]
     
     for i in range(0, n):
         B[(i + K) % n] = A[i]
