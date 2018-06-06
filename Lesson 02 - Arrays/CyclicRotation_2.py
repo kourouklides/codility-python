@@ -14,4 +14,6 @@ def solution(A, K):
     else:
         i = K
     
-    return (A[-i:] + A[:-i])
+    B = A[-i:] + A[:-i]
+    
+    return B
