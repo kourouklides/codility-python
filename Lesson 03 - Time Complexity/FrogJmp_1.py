@@ -8,7 +8,7 @@ def solution(X, Y, D):
     
     num = Y - X
     den = D
-    jumps = math.ceil (num/den)
+    jumps = math.ceil(num/den)
     
     return jumps
     
