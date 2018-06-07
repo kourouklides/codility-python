@@ -10,8 +10,8 @@ def solution(A):
     	if dictionary.get(number) == None:
     		dictionary[number] = 1
     	else:
-    		dictionary[number] = 2
+    		dictionary[number] += 1
     
     for key in dictionary.keys():
-    	if dictionary.get(key) == 1:
+    	if dictionary.get(key) % 2 == 1:
     		return key
