@@ -4,3 +4,14 @@
 def solution(A):
     # write your code in Python 3.6
     
+    dictionary = {}
+    
+    for number in A:
+    	if dictionary.get(number) == None:
+    		dictionary[number] = 1
+    	else:
+    		dictionary[number] = 2
+    
+    for key in dictionary.keys():
+    	if dictionary.get(key) == 1:
+    		return key
