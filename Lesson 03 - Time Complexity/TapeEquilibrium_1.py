@@ -33,8 +33,8 @@ def solution(A):
     return diff
     
 # Task Score
-# 100%
+# 75%
 # Correctness
-# 100%
+# 83%
 # Performance
-# 100%
+# 66%
