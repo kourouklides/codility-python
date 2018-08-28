@@ -11,13 +11,20 @@ Solutions to Codility tests in Python: https://app.codility.com/programmers/
  
 **Lesson 2 - Arrays**
 
-- Cyclic Rotation (Solution 1)
-- Cyclic Rotation (Solution 2)
-- Odd Occurrences In Array (Solution 1)
-- Odd Occurrences In Array (Solution 2)
-- Odd Occurrences In Array (Solution 3)
+- CyclicRotation (Solution 1)
+- CyclicRotation (Solution 2)
+- OddOccurrencesInArray (Solution 1)
+- OddOccurrencesInArray (Solution 2)
+- OddOccurrencesInArray (Solution 3)
 
 **Lesson 3 - Time Complexity**
+
+- FrogJmp
+- PermMissingElem (Solution 1)
+- PermMissingElem (Solution 2)
+- TapeEquilibrium (Solution 1)
+- TapeEquilibrium (Solution 2)
+- TapeEquilibrium (Solution 3)
 
 **Lesson 4 - Counting Elements**
 
