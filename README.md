@@ -11,6 +11,12 @@ Solutions to Codility tests in Python: https://app.codility.com/programmers/
  
 **Lesson 2 - Arrays**
 
+- Cyclic Rotation (Solution 1)
+- Cyclic Rotation (Solution 2)
+- Odd Occurrences In Array (Solution 1)
+- Odd Occurrences In Array (Solution 2)
+- Odd Occurrences In Array (Solution 3)
+
 **Lesson 3 - Time Complexity**
 
 **Lesson 4 - Counting Elements**
