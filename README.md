@@ -5,17 +5,17 @@ Solutions to Codility tests in Python: https://app.codility.com/programmers/
 **Lesson 1 - Iterations**
 
  - [BinaryGap (Solution 1)](Lesson%2001%20-%20Iterations/BinaryGap_1.py)
- - [BinaryGap (Solution 2)](https://github.com/kourouklides/codility-python/blob/master/Lesson%2001%20-%20Iterations/BinaryGap_2.py)
- - [BinaryGap (Solution 3)](https://github.com/kourouklides/codility-python/blob/master/Lesson%2001%20-%20Iterations/BinaryGap_3.py)
- - [BinaryGap (Solution 4)](https://github.com/kourouklides/codility-python/blob/master/Lesson%2001%20-%20Iterations/BinaryGap_4.py)
+ - [BinaryGap (Solution 2)](Lesson%2001%20-%20Iterations/BinaryGap_2.py)
+ - [BinaryGap (Solution 3)](Lesson%2001%20-%20Iterations/BinaryGap_3.py)
+ - [BinaryGap (Solution 4)](Lesson%2001%20-%20Iterations/BinaryGap_4.py)
  
 **Lesson 2 - Arrays**
 
-- CyclicRotation (Solution 1)
-- CyclicRotation (Solution 2)
-- OddOccurrencesInArray (Solution 1)
-- OddOccurrencesInArray (Solution 2)
-- OddOccurrencesInArray (Solution 3)
+- [CyclicRotation (Solution 1)](Lesson%2002%20-%20Arrays/CyclicRotation_1.py)
+- [CyclicRotation (Solution 2)](Lesson%2002%20-%20Arrays/CyclicRotation_1.py)
+- [OddOccurrencesInArray (Solution 1)](Lesson%2002%20-%20Arrays/OddOccurrencesInArray_1.py)
+- [OddOccurrencesInArray (Solution 2)](Lesson%2002%20-%20Arrays/OddOccurrencesInArray_1.py)
+- [OddOccurrencesInArray (Solution 3)](Lesson%2002%20-%20Arrays/OddOccurrencesInArray_1.py)
 
 **Lesson 3 - Time Complexity**
 
